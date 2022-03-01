@@ -1,3 +1,8 @@
+## Hulu Clone
+![Uploading Screen Shot 2022-03-01 at 11.33.07 PM.png…]()
+
+# purpose: learning next.js and tailwind css
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
