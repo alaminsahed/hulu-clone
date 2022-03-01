@@ -1,5 +1,6 @@
 ## Hulu Clone
-![Uploading Screen Shot 2022-03-01 at 11.33.07 PM.png…]()
+<img width="1671" alt="Screen Shot 2022-03-01 at 11 33 07 PM" src="https://user-images.githubusercontent.com/57568263/156221560-de0a6209-ba3c-4ac4-93e6-3058b4817393.png">
+
 
 # purpose: learning next.js and tailwind css
 
